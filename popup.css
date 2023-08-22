@@ -1,0 +1,41 @@
+body {
+  width: 200px;
+  height: 250px;
+  padding: 10px;
+}
+
+.timer {
+  text-align: center;
+}
+
+#time {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+#quote {
+  margin-bottom: 15px;
+  font-style: italic;
+}
+
+img {
+  width: 80px;
+  height: 80px;
+  margin: 10px;
+}
+
+label {
+  display: inline-block;
+  width: 60px;
+  text-align: right;
+  margin-right: 10px;
+}
+
+input {
+  width: 40px;
+}
+
+button {
+  padding: 5px 10px;
+  margin: 5px;
+}
